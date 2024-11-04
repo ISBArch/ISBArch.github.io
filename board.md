@@ -17,7 +17,7 @@ sidebar_link: true
   <p>Cambridge, USA</p>
   <p>MPI-EVA</p>
   <p>Leipzig, DE</p>
-  <p><b><a href="mailto:president@isbarch.org">Contact</a></b></p>
+  <p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
   </div>
 
   <div class ="member">
@@ -26,14 +26,15 @@ sidebar_link: true
   <p><b>Vice President</b></p>
   <p>Oxford University</p>
   <p>Oxford, UK</p>
+  <p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
   </div>
 
   <div class ="member">
-  <div class="square"><a href="https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/geosciences/work-groups-contacts/prehistory-and-archaeological-sciences/ina/early-prehistory-quaternary-ecology/staff/academic-staff/dr-samantha-brown/" target="_blank"><img src="{{ "/assets/images/profile_pictures/BROWN_SAM.jpg" | relative_url }}" alt="Avatar" /></a></div>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/BROWN_SAM.jpg" | relative_url }}" alt="Avatar" /></a></div>
   <p>Sam Brown</p>
   <p><b>Secretary</b></p>
-  <p>University of Tübingen</p>
-  <p>Tübingen, DE</p>
+  <p>National Research Center on Human Evolution (CENIEH)</p>
+  <p>Burgos, Spain</p>
   <p><b><a href="mailto:secretary@isbarch.org">Contact</a></b></p>
   </div>
 
@@ -91,7 +92,7 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/IRVINGPEASE_Evan.jpg" | relative_url }}" alt="Avatar" /></a></div>
   <p>Evan Irving-Pease</p>
   <p><b>Social Media</b></p>
   <p>University of Copenhagen</p>
@@ -123,7 +124,7 @@ sidebar_link: true
 <div class="avatar">
   
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/DEMARCHI_Beatrice.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Beatrice Demarchi</p>
 <p><b>Conference Representative</b></p>
 <p>University of Turin</p>
@@ -137,7 +138,7 @@ sidebar_link: true
 <p><b>Diversity and Inclusion Representative</b></p>
 <p>Nara National Research Institute for Cultural Properties</p>
 <p>Nara, JP</p>
-<p><b><a href="mailto:diversity_and_inclusion@isbarch.org@isbarch.org">Contact</a></b></p>
+<p><b><a href="mailto:shinya.shoda@york.ac.uk">Contact</a></b></p>
 </div>
 
 </div>
