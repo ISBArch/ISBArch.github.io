@@ -48,7 +48,7 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/DATANASIO_Eugenia.jpg" | relative_url }}" alt="Avatar" /></a></div>
   <p>Eugenia D'Atanasio</p>
   <p><b>Deputy Treasurer (Membership)</b></p>
   <p>National Research Council</p>
