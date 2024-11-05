@@ -48,7 +48,7 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/DATANASIO_Eugenia.jpg" | relative_url }}" alt="Avatar" /></a></div>
+  <div class="square"><a href="https://www.researchgate.net/profile/Eugenia-Datanasio" target="_blank"><img src="{{ "/assets/images/profile_pictures/DATANASIO_Eugenia.jpg" | relative_url }}" alt="Avatar" /></a></div>
   <p>Eugenia D'Atanasio</p>
   <p><b>Deputy Treasurer (Membership)</b></p>
   <p>National Research Council</p>
@@ -87,7 +87,8 @@ sidebar_link: true
   <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
   <p>Zuzana Hofmanova</p>
   <p><b>Webmaster</b></p>
-  <p>MPI-EVA, Leipzig, DE</p>
+  <p>MPI-EVA</p> 
+  <p>Leipzig, DE</p>
   <p><b><a href="mailto:webmaster@isbarch.org">Contact</a></b></p>
   </div>
 
@@ -100,11 +101,11 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/PEYROTEOSTJERNA_Rita.jpg" | relative_url }}" alt="Avatar" /></a></div>
   <p>Rita Peyroteo Stjerna</p>
   <p><b>Ombudsperson</b></p>
-  <p>XXX</p>
-  <p>XXX, XX</p>
+  <p>Human Evolution, Dep Organismal Biology, Uppsala University</p>
+  <p>Uppsala, Sweden</p>
   <p><b><a href="mailto: ombudsperson@isbarch.org">Contact</a></b></p>
   </div>
 
