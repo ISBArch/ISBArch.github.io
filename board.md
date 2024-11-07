@@ -39,7 +39,7 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/KOON_Hannah.png" | relative_url }}" alt="Avatar" /></a></div>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/KOON_Hannah.jpg" | relative_url }}" alt="Avatar" /></a></div>
   <p>Hannah Koon</p>
   <p><b>Treasurer</b></p>
   <p>University of Bradford</p>
@@ -84,8 +84,8 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
-  <p>Zuzana Hofmanova</p>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/HOFMANOVA_Zuzana.jpg" | relative_url }}" alt="Avatar" /></a></div>
+  <p>Zuzana Hofmanová</p>
   <p><b>Webmaster</b></p>
   <p>MPI-EVA</p> 
   <p>Leipzig, DE</p>
