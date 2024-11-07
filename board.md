@@ -39,11 +39,11 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/KOON_Hannah.png" | relative_url }}" alt="Avatar" /></a></div>
   <p>Hannah Koon</p>
   <p><b>Treasurer</b></p>
-  <p>XXX</p>
-  <p>XXX, XX</p>
+  <p>University of Bradford</p>
+  <p>Bradford, UK</p>
   <p><b><a href="mailto:treasurer@isbarch.org">Contact</a></b></p>
   </div>
 
@@ -109,11 +109,13 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/JHA_Gopesh.jpg" | relative_url }}" alt="Avatar" /></a></div>
   <p>Gopesh Jha </p>
   <p><b>Ombudsperson</b></p>
-  <p>XXX</p>
-  <p>XXX, XX</p>
+  <p>MPI-GEA</p>
+  <p>Jena, DE</p>
+  <p>Eberhard-Karls-Universität Tübingen</p>
+  <p>Tübingen, DE</p>
   <p><b><a href="mailto: ombudsperson@isbarch.org">Contact</a></b></p>
   </div>
 
