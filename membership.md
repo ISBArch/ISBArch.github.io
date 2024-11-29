@@ -29,7 +29,7 @@ Registration can be performed in two to three steps:
 2. Register your details
 3. [Students only] Send proof of student status
 
-<p style="color: #348aee">⚠️ <b>Membership numbers will only be issued once step two has been completed!</b></p>
+<p style="color: #348aee">⚠️ <b>Membership is only considered valid once step two has been completed!</b></p>
 
 ## 1. Make membership fee payment
 
@@ -106,14 +106,16 @@ Once the payment has been made, use the button below to use the Google Form to r
 
 <button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLScSP0j1FPUZ2xN-IKjygf-IyqTi6gLB6-HQZ5wM95W4N3RfYQ/viewform?usp=sf_link')" class="button-join">Register</button>
 
-> ⚠️ Your membership number will only be considered valid once your payment has been sent!
+> ⚠️ Your membership will only be considered valid once your payment has been sent!
 
 ## 3. (Students only) Send proof of student status
 
-If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to [webmaster@isbarch.org](mailto:webmaster@isbarch.org) with [treasurer@isbarch.org](mailto:treasurer@isbarch.org) in cc.
+If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to the [treasurer@isbarch.org](mailto:treasurer@isbarch.org), with [secretary@isbarch.org](mailto:secretary@isbarch.org) in cc.
 
-## Membership number
+Your membership will only be valid once the treasurer receives this proof of student status.
 
-You should automatically receive an email with your membership number after registering (step 2). If you do not receive this email, please contact the webmaster. The membership number will be valid for two years.
+## 4. Confirmation
 
-If you have an issues or questions, please contact the webmaster via: [webmaster@isbarch.org](mailto:webmaster@isbarch.org) <!-- or the treasurer via: [webmaster@isbarch.org](mailto:treasurer@isbarch.org). -->.
+You should automatically receive an email with a confirmation number after registering (step 2). If you do not receive this email, please contact the webmaster. The membership will be valid for two years.
+
+If you have an issues or questions, please contact the treasurer or secretary via: treasurer via: [webmaster@isbarch.org](mailto:treasurer@isbarch.org) or [secretary@isbarch.org](mailto:secretary@isbarch.org).
