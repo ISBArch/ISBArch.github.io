@@ -34,9 +34,25 @@ If you would like your community to become an affiliate of ISBA, please see the 
 
 <img href="https://laardcommunity.github.io/"  style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://github.com/LaardCommunity/LaardCommunity.github.io/raw/master/assets/media/LOGO3.png">
 
-[**Lipid Analysis for Archaeological Research Development (LAARD) Community**](https://laardcommunity.github.io/): a community of international researchers focused on the analysis of ancient lipids resulting from human activities. LAARD’s goal is to cultivate spaces for open and cooperative science to overcome common challenges in the field. Find out more here.
+[**Lipid Analysis for Archaeological Research Development (LAARD) Community**](https://laardcommunity.github.io/): a community of international researchers focused on the analysis of ancient lipids resulting from human activities. LAARD’s goal is to cultivate spaces for open and cooperative science to overcome common challenges in the field. Find out more [here](https://laardcommunity.github.io/).
 
 ---
+
+<img href="https://www.animal-adna.org/"  style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="https://github.com/Animal-aDNA-Research-Community/AaRC.github.io/raw/master/assets/media/AaRC_temp_logo.jpg">
+
+The [**Animal aDNA Research Community (AaRC)**](https://www.animal-adna.org/) aims to bring together early career researchers applying genomic approaches to ancient animal remains and nucleotide-preserving material.
+
+By providing an inclusive environment, AaRC will promote knowledge exchange and collaboration between researchers regardless of their institutional or disciplinary background; facilitate the establishment of community-led standards, best practices and resources; and provide a platform for the sharing of research and knowledge.
+
+AaRC is envisioned to be primarily run by and for early career researchers (graduate student, post-doctoral researchers, and early group leaders), but researchers of all career stages are welcome to join and participate in the community.
+
+AaRC’s mission is to provide:
+
+- Scientific advancement (via community-driven projects to advance the field)
+- Training and support (through resources and courses to facilitate knowledge sharing and quality of research)
+- Networking (by facilitating collaborations and assisting each other) for the animal ancient DNA community."
+
+Find out more [here](https://www.animal-adna.org/).
 
 ---
 
