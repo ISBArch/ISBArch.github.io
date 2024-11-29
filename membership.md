@@ -104,7 +104,7 @@ For any other enquiries please contact the webmaster and secretary via: [webmast
 
 Once the payment has been made, use the button below to use the Google Form to register your details:
 
-<button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSd-yKfzXl7B06AoOA5tbXK-QZtT-jFQ8pc5bxmodfTnWOc3dA/viewform?usp=sf_link')" class="button-join">Register</button>
+<button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLScSP0j1FPUZ2xN-IKjygf-IyqTi6gLB6-HQZ5wM95W4N3RfYQ/viewform?usp=sf_link')" class="button-join">Register</button>
 
 > ⚠️ Your membership number will only be considered valid once your payment has been sent!
 
