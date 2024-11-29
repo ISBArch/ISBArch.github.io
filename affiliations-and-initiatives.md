@@ -62,7 +62,7 @@ Find out more [here](https://www.animal-adna.org/).
 
 <img href="http://www.mixs-minas.org/" style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="http://www.mixs-minas.org/assets/images/logos/minas-logo-flat.png">
 
-[**MINAS Working Group**](http://www.mixs-minas.org/): an initiative to develop a MIxS extension checklist designed specifically for ancient metagenomics, as well as collaborating with a working group in ancient human population genetics to develop a more general checklist for ancient DNA, provisionally called the ‘MInAS’ checklist (Minimum INformation about Ancient Sequences’).
+[**MINAS Working Group**](http://www.mixs-minas.org/): a community project to develop a metadata reporting standard designed specifically for ancient DNA data through the Minimum Standards about any Sequence (MIxS) inititative of the Genomics Standards Consortium (GSC).
 
 ---
 

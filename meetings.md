@@ -16,13 +16,13 @@ sidebar_link: true
 <img align="center" width="75%" src="/assets/images/ISBA11/save_the_date.jpg" alt="Save the Date: ISBA11 26-29 August 2025 Turin - Italy, Organising secretariat: Centro Congressi Internazionale Srl a s.u.">
 </div>
 
-The next ISBA meeting, ISBA11 is will be held between the 26th and 29th of August by the University of Torino, Italy as voted by society members at ISBA10
+The next ISBA meeting, ISBA11 is will be held between the 26th and 29th of August by the University of Torino, Italy as voted by society members at ISBA10. For information about registration and abstract submission, please visit the ISBA11 website: <a href="https://www.isba11.com/">https://www.isba11.com/</a>.
 
 [Members of ISBA](/membership) will recieve a discount upon registration.
 
 ## ISBA11 Organizing Committee
 
-The 11th ISBA will be organized by the [University of Torino, Italy](https://en.unito.it/).
+The 11th ISBA will be organized by the [University of Torino, Italy](https://en.unito.it/). For more information, please contact the conference organizer, Prof Beatrice Demarchi, or visit the ISBA11 website: <a href="https://www.isba11.com/">https://www.isba11.com/</a>.
 
 <div class="avatar">
 
