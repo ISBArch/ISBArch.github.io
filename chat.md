@@ -57,6 +57,14 @@ _For a graphical guide, read this section and then see [here](/chat-graphical#cr
 To join any other public room, press the `+` next to the 'Rooms' section header of the side bar.
 We give some [recommendations](#using-element-matrix) below.
 
+If you want to join the affiliate-specific spaces, you can join them by clicking on these links:
+
+- SPAAM: [https://matrix.to/#/#spaam:archaeo.social](https://matrix.to/#/#spaam:archaeo.social)
+- HAAM: [https://matrix.to/#/#haam-community:archaeo.social](https://matrix.to/#/#haam-community:archaeo.social) 
+- PAASTA: [https://matrix.to/#/#paasta:archaeo.social](https://matrix.to/#/#paasta:archaeo.social)
+- LAARD: [https://matrix.to/#/#laard:archaeo.social](https://matrix.to/#/#laard:archaeo.social) 
+- AaRC: [https://matrix.to/#/#aarc:archaeo.social](https://matrix.to/#/#aarc:archaeo.social)
+
 ## Verification
 
 You likely at this point have a message at the top of your window saying that your ‘session is not verified’.
@@ -151,7 +159,7 @@ We recommend to join at a minimum to join the following common rooms:
 Another important thing to remember: you can also join public rooms in other servers from your account!
 Typically this works by getting a unique room + server URL (or just the room name) and putting this in the 'Explore rooms' interface.
 
-## FAQ
+## FAQ and Troubleshooting
 
 ### Why not use Slack, Discord or similar popular ?
 
@@ -168,3 +176,23 @@ Element/Matrix is open.source, and is becoming extremely popular with many other
 
 This solution allows us to retain control over our data and privacy, and makes it easier for portability (we can move our servers and workspaces to other locations if necessary).
 By supporting an existing platform it reduces financial costs on the society, reduces time investment to set up and maintain, and we can strengthen the existing platform by providing a longer term source of funding and maintainer hours support.
+
+### I'm trying to talk to a user but it says 'Unable to decrypt message' or 'The sender has blocked you from receiving this message because your device is unverified'
+
+As described in the instructions above, Element/Matrix is very security orientated. 
+
+Depends on your and other users settings you may not be able to view other users messages in private messages or in rooms (i.e., channels), or get messages  such as 
+
+- Unable to decrypt message
+- The sender has blocked you from receiving this message because your device is unverified
+
+If you get these messages, make sure that you and the other user have done the either one of the two following:
+
+1. (Recommended) properly set up encryption and cross-signing of your, the other person's account, and every member in the room as described in the instructions above
+2. Update the following two settings: 
+   - General room settings > Security and Privacy > uncheck 'never send encrypted messages to unverified sessions in this room from this session' box
+   - Profile Settings > uncheck 'Never send encrypted messages to unverified sessions from this session'
+
+This should then make it possible for you and other members to see each other messages.
+
+_Thanks to Karine Tache and Adria Breu for reporting the issue and solutions_
