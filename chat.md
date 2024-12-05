@@ -181,7 +181,7 @@ By supporting an existing platform it reduces financial costs on the society, re
 
 As described in the instructions above, Element/Matrix is very security orientated. 
 
-Depends on your and other users settings you may not be able to view other users messages in private messages or in rooms (i.e., channels), or get messages  such as 
+Such messages depends on your and other users settings you may not be able to view other users messages in private messages or in rooms (i.e., channels), or get messages  such as 
 
 - Unable to decrypt message
 - The sender has blocked you from receiving this message because your device is unverified
