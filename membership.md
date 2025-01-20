@@ -33,6 +33,8 @@ Registration can be performed in two to three steps:
 
 <p style="color: #348aee">⚠️ <b>Membership is only considered valid once step two has been completed!</b></p>
 
+<b>Note: The form must be completed for both new memberships and for renewals.</b>
+
 ## 1. Make membership fee payment
 
 Follow these buttons to pay by PayPal. PayPal should allow you to pay directly through your PayPal account, or by credit or debit card (also without an account for some countries). <i>This is our preferred method of payment and will expedite your membership order.</i>
