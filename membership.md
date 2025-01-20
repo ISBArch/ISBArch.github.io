@@ -21,6 +21,8 @@ Membership fees are described in the table below.
 | Student  | £15  | 2 years  |
 | Standard | £30  | 2 years  |
 
+Student status applies to individuals actively pursuing higher education who have not yet defended their PhD. This includes enrolled undergraduate, Masters, and PhD students, as well as students who are in transition roles between these steps. We define a transition role as being within 2 years of completing an undergraduate or Masters degree.
+
 ## Steps to Membership
 
 Registration can be performed in two to three steps:
