@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "[EVENT] 2025 - Reminder: ISBA11 Abstract Submission Extended!"
+title: "[EVENT] 2025 - ISBA11 Abstract Submission Extended!"
 categories:
   - Events
   - News
 tags:
-  - Past
+  - Future
 ---
 
 Dear all!
