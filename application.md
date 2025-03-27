@@ -4,7 +4,7 @@ title: Funding Application
 sidebar_link: false
 ---
 
-In order to consider your request an official application for an ISBA micro grant, a short (**max 1 page**) overview should be sent to [programming@isbaarch.org](mailto:programming@isbarch.org).
+In order to consider your request an official application for an ISBA micro grant, a short (**max 1 page**) overview should be sent to [programming@isbarch.org](mailto:programming@isbarch.org).
 
 At least **one of the applicants must to be an ISBA member** (with their membership ID indicated in the application)
 
