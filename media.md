@@ -12,7 +12,7 @@ Below is a collection of online open-access educational videos about ancient bio
 - [Other eduational videos](#other-educational-videos)
 
 ## ISBA youtube channel
-ISBA now has its [own youtube channel](https://www.youtube.com/channel/UCJbbaTbroJubCAC5TJnMoiw)! If you would like to contribute educational videos to the ISBA youtube channel, please contact Dr. Lisa Briggs (treasurer@isbarch.org). Featured videos include:
+ISBA now has its [own youtube channel](https://www.youtube.com/channel/UCJbbaTbroJubCAC5TJnMoiw)! If you would like to contribute educational videos to the ISBA youtube channel, please contact ISBA treasurers (treasurer@isbarch.org). Featured videos include:
 - "[What is ancient DNA?](https://www.youtube.com/watch?v=Hyv8TY38WU8)", by Greger Larson
 - "[Organic residue analysis in archaeology: a brief introduction](https://www.youtube.com/watch?v=yfuPEvU3KBE&t)", by Dr. Oliver Craig
 

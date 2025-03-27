@@ -24,7 +24,7 @@ All posts require moderator approval before distribution.
 
 ## Media Enquiries
 
-[media@isbarch.org](mailto:media@isbarch.org)
+[secretary@isbarch.org](mailto:secretary@isbarch.org)
 
 ## Webmaster
 
