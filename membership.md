@@ -87,6 +87,7 @@ If you do not have a PayPal account please see the details in the collapsed sect
 <li><b>Name (Beneficiary)</b>: ISBA</li>
 <li><b>IBAN</b>: GB26CAFB40524000037289</li>
 <li><b>Sort code</b>: 40-52-40</li>
+<li><b>BIC</b>: CAFBGB21XXX</li>
 <li><b>Account number</b>: 00037289</li>
 <li><b>Receiving Bank Details</b>:
 CAF Bank Limited,
