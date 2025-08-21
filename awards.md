@@ -22,3 +22,7 @@ Prize for an outstanding publication by a student in a first author role.
 ### [Distinguished Article Award](/distinguished_article_award)
 
 Award for an outstanding article in a peer-reviewed journal in the area of biomolecular archaeology.
+
+### [Other Award](/other_awards)
+
+Please see other awards specific to ISBA11 at [ISBA11 webpage](https://www.isba11.com/awards/).
