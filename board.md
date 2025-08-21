@@ -66,20 +66,20 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ORAS_Ester.jpg" | relative_url }}" alt="Avatar" /></a></div>
-  <p>Ester Oras</p>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/HE_Yu.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+  <p>He Yu</p>
   <p><b>Programming and Affiliate Coordinator</b></p>
-  <p>University of Tartu</p>
-  <p>Tartu, EE</p>
+  <p>Peking University</p>
+  <p>Beijing, CN</p>
   <p><b><a href="mailto:programming@isbarch.org">Contact</a></b></p>
   </div>
 
   <div class ="member">
   <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/WEYRICH_Laura.png" | relative_url }}" alt="Avatar" /></a></div>
-  <p>Laura Weyrich</p>
+  <p>Martyna Molak</p>
   <p><b>Charity Compliance and Liaison Officer</b></p>
-  <p>Pennsylvania State University</p>
-  <p>Pennsylvania, PA, USA</p>
+  <p>University of Warsaw</p>
+  <p>Warsaw, PL</p>
   <p><b><a href="mailto:compliance@isbarch.org">Contact</a></b></p>
   </div>
 
@@ -93,11 +93,11 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/IRVINGPEASE_Evan.jpg" | relative_url }}" alt="Avatar" /></a></div>
-  <p>Evan Irving-Pease</p>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/FISHER_Claire.jpg" | relative_url }}" alt="Avatar" /></a></div>
+  <p>Claire-Elise Fischer</p>
   <p><b>Social Media</b></p>
-  <p>University of Copenhagen</p>
-  <p>Copenhagen, DK</p>
+  <p>Arctic University of Norway</p>
+  <p>Tromsø, NO</p>
   </div>
 
   <div class ="member">
