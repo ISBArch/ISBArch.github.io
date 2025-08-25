@@ -154,7 +154,7 @@ The International Society for Biomolecular Archaeology (ISBA) is a Charitable In
 
 ### Former Members of the Standing Committee and Board
 
-Ian Barnes (2022-2024), Oliver Craig (2022-2024), Lisa Briggs (2022-2024), James Fellows Yates (2022-2024), Alicia Ventresca Miller (2023-2024), Andrew Millard (2022-2023), Marie Balassae (2022-2023), Love Dalén (2022-2023), Shinya Shoda (2022-2023), Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Kerstin Lidén, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
+Ester Oras (2023-2025), Laura Weyrich (2023-2025), Evan Irving-Pease (2023-2025), Ian Barnes (2022-2024), Oliver Craig (2022-2024), Lisa Briggs (2022-2024), James Fellows Yates (2022-2024), Alicia Ventresca Miller (2023-2024), Andrew Millard (2022-2023), Marie Balassae (2022-2023), Love Dalén (2022-2023), Shinya Shoda (2022-2023), Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Kerstin Lidén, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
 
 #### Former Representatives
 
