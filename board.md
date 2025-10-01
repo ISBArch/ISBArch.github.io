@@ -56,7 +56,7 @@ sidebar_link: true
   </div>
 
 
-## add once Fundraiser is voted in
+<!-- ## add once Fundraiser is voted in
   ## <div class ="member">
   ## <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/SCHROEDER_Hannes.png" | relative_url }}" alt="Avatar" /></a></div>
   ## <p>Hannes Schroeder</p>
@@ -65,7 +65,7 @@ sidebar_link: true
   ## <p>Copenhagen, DK</p>
   ## <p><b><a href="mailto:treasurer@isbarch.org">Contact</a></b></p>
   ## </div>
-
+-->
   <div class ="member">
   <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/HE_Yu.jpeg" | relative_url }}" alt="Avatar" /></a></div>
   <p>He Yu</p>
@@ -118,7 +118,7 @@ sidebar_link: true
 
 <div class="avatar">
   
-## ISBA representative - change for each ISBA  
+<!-- ISBA representative - change for each ISBA  
 ## <div class ="member">
 ## <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/DEMARCHI_Beatrice.png" | relative_url }}" alt="Avatar" /></a></div>
 ## <p>Beatrice Demarchi</p>
@@ -127,6 +127,7 @@ sidebar_link: true
 ## <p>Turin, IT</p>
 ## <p><b><a href="mailto:beatrice.demarchi@unito.it">Contact</a></b></p>
 ## </div>
+ -->
 
   <div class ="member">
   <div class="square"><a href="http://christinawarinner.com/about-us/christina-warinner/" target="_blank"><img src="{{ "/assets/images/profile_pictures/WARINNER_Christina.png" | relative_url }}" alt="Avatar" /></a></div>
