@@ -137,7 +137,6 @@ sidebar_link: true
   <p>Cambridge, USA</p>
   <p>MPI-EVA</p>
   <p>Leipzig, DE</p>
-  <p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
   </div>
 
 
