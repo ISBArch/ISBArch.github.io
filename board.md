@@ -10,24 +10,23 @@ sidebar_link: true
 <div class="avatar">
 
   <div class ="member">
-  <div class="square"><a href="http://christinawarinner.com/about-us/christina-warinner/" target="_blank"><img src="{{ "/assets/images/profile_pictures/WARINNER_Christina.png" | relative_url }}" alt="Avatar" /></a></div>
-  <p>Christina Warinner</p>
-  <p><b>President</b></p>
-  <p>Harvard University</p>
-  <p>Cambridge, USA</p>
-  <p>MPI-EVA</p>
-  <p>Leipzig, DE</p>
-  <p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
-  </div>
-
-  <div class ="member">
   <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/LARSON_Greger.jpg" | relative_url }}" alt="Avatar" /></a></div>
   <p>Greger Larson</p>
-  <p><b>Vice President</b></p>
+  <p><b>President</b></p>
   <p>Oxford University</p>
   <p>Oxford, UK</p>
   <p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
   </div>
+
+  <div class ="member">
+  <div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/zuzana-hofmanova/" target="_blank"><img src="{{ "/assets/images/profile_pictures/HOFMANOVA_Zuzana.jpg" | relative_url }}" alt="Avatar" /></a></div>
+  <p>Zuzana Hofmanová</p>
+  <p><b>Webmaster</b></p>
+  <p>MPI-EVA</p> 
+  <p>Leipzig, DE</p>
+  <p><b><a href="mailto:webmaster@isbarch.org">Contact</a></b></p>
+  </div>
+
 
   <div class ="member">
   <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/BROWN_SAM.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -56,14 +55,16 @@ sidebar_link: true
   <p><b><a href="mailto:treasurer@isbarch.org">Contact</a></b></p>
   </div>
 
-  <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/SCHROEDER_Hannes.png" | relative_url }}" alt="Avatar" /></a></div>
-  <p>Hannes Schroeder</p>
-  <p><b>Deputy Treasurer (Fundraising)</b></p>
-  <p>University of Copenhagen</p>
-  <p>Copenhagen, DK</p>
-  <p><b><a href="mailto:treasurer@isbarch.org">Contact</a></b></p>
-  </div>
+
+## add once Fundraiser is voted in
+  ## <div class ="member">
+  ## <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/SCHROEDER_Hannes.png" | relative_url }}" alt="Avatar" /></a></div>
+  ## <p>Hannes Schroeder</p>
+  ## <p><b>Fundraiser</b></p>
+  ## <p>University of Copenhagen</p>
+  ## <p>Copenhagen, DK</p>
+  ## <p><b><a href="mailto:treasurer@isbarch.org">Contact</a></b></p>
+  ## </div>
 
   <div class ="member">
   <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/HE_Yu.jpeg" | relative_url }}" alt="Avatar" /></a></div>
@@ -81,15 +82,6 @@ sidebar_link: true
   <p>University of Warsaw</p>
   <p>Warsaw, PL</p>
   <p><b><a href="mailto:compliance@isbarch.org">Contact</a></b></p>
-  </div>
-
-  <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/HOFMANOVA_Zuzana.jpg" | relative_url }}" alt="Avatar" /></a></div>
-  <p>Zuzana Hofmanová</p>
-  <p><b>Webmaster</b></p>
-  <p>MPI-EVA</p> 
-  <p>Leipzig, DE</p>
-  <p><b><a href="mailto:webmaster@isbarch.org">Contact</a></b></p>
   </div>
 
   <div class ="member">
@@ -126,14 +118,35 @@ sidebar_link: true
 
 <div class="avatar">
   
-<div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/DEMARCHI_Beatrice.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Beatrice Demarchi</p>
-<p><b>Conference Representative</b></p>
-<p>University of Turin</p>
-<p>Turin, IT</p>
-<p><b><a href="mailto:beatrice.demarchi@unito.it">Contact</a></b></p>
-</div>
+## ISBA representative - change for each ISBA  
+## <div class ="member">
+## <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/DEMARCHI_Beatrice.png" | relative_url }}" alt="Avatar" /></a></div>
+## <p>Beatrice Demarchi</p>
+## <p><b>Conference Representative</b></p>
+## <p>University of Turin</p>
+## <p>Turin, IT</p>
+## <p><b><a href="mailto:beatrice.demarchi@unito.it">Contact</a></b></p>
+## </div>
+
+  <div class ="member">
+  <div class="square"><a href="http://christinawarinner.com/about-us/christina-warinner/" target="_blank"><img src="{{ "/assets/images/profile_pictures/WARINNER_Christina.png" | relative_url }}" alt="Avatar" /></a></div>
+  <p>Christina Warinner</p>
+  <p><b>Honorary Signatory</b></p>
+  <p>Harvard University</p>
+  <p>Cambridge, USA</p>
+  <p>MPI-EVA</p>
+  <p>Leipzig, DE</p>
+  <p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
+  </div>
+
+
+  <div class ="member">
+  <div class="square"><a href="https://www.york.ac.uk/archaeology/people/oliver-craig/" target="_blank"><img src="{{ "/assets/images/profile_pictures/CRAIG_Oliver.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+  <p>Oliver Craig</p>
+  <p><b>Honorary Signatory</b></p>
+  <p>University of York</p>
+  <p>York, UK</p>
+  </div>
 
 <div class ="member">
 <div class="square"><a href="https://scholar.google.co.jp/citations?user=DdExTn4AAAAJ&hl=en" target="_blank"><img src="{{ "/assets/images/profile_pictures/SHODA_Shinya.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -154,7 +167,7 @@ The International Society for Biomolecular Archaeology (ISBA) is a Charitable In
 
 ### Former Members of the Standing Committee and Board
 
-Ester Oras (2023-2025), Laura Weyrich (2023-2025), Evan Irving-Pease (2023-2025), Ian Barnes (2022-2024), Oliver Craig (2022-2024), Lisa Briggs (2022-2024), James Fellows Yates (2022-2024), Alicia Ventresca Miller (2023-2024), Andrew Millard (2022-2023), Marie Balassae (2022-2023), Love Dalén (2022-2023), Shinya Shoda (2022-2023), Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Kerstin Lidén, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
+Beatrice Demarchi (2023-2025), Christina Warinner (2022-2025), Hannes Schroeder (2023-2025), Ester Oras (2023-2025), Laura Weyrich (2023-2025), Evan Irving-Pease (2023-2025), Ian Barnes (2022-2024), Oliver Craig (2022-2024), Lisa Briggs (2022-2024), James Fellows Yates (2022-2024), Alicia Ventresca Miller (2023-2024), Andrew Millard (2022-2023), Marie Balassae (2022-2023), Love Dalén (2022-2023), Shinya Shoda (2022-2023), Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Kerstin Lidén, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
 
 #### Former Representatives
 
