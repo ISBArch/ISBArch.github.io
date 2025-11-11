@@ -29,7 +29,7 @@ If you're unsure what to use, we recommend starting with the 'official' Element 
 
 ### Create an account
 
-_ℹ️ Note: you do not need to create a new account if you already have an matrix account on another server! If you do, join the workspace directly via [https://matrix.to/#/#isba:archaeo.social](https://matrix.to/#/#isba:archaeo.social)_
+_ℹ️ Note: you <b>need</b> to create a new account even if you already have a matrix account on another server! If you do, create a new account on the archeo.social server via [https://matrix.to/#/#isba:archaeo.social](https://matrix.to/#/#isba:archaeo.social).
 
 To create an account, go through the following steps:
 
@@ -196,3 +196,7 @@ If you get these messages, make sure that you and the other user have done the e
 This should then make it possible for you and other members to see each other messages.
 
 _Thanks to Karine Tache and Adria Breu for reporting the issue and solutions_
+
+### I cannot receive messages from other accounts, be added to the groups and have other issues when interacting with other members.
+
+Please check that your account is indeed on [https://matrix.to/#/#isba:archaeo.social](https://matrix.to/#/#isba:archaeo.social) server not on any other matrix server. You can see that by checking your profile (right top you click your profile picture > All settings > Account): @[i]username[/i]:archaeo.social (NOT for example @[i]username[/i]:matrix.org). If you have problems communicating with somebody else, it is possible that they are on a wrong server: please let them know via other means (email).
