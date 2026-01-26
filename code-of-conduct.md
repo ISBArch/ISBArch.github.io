@@ -25,3 +25,19 @@ Anyone experiencing or witnessing behaviour that constitutes an immediate or ser
 ### Digital images and social media
 
 Do not photograph a poster or record a talk without the author’s expressed permission. Our default assumption is to allow open discussion of presentations on social media; however, attendees are expected to respect any request by an author to not disseminate the contents of their talk or poster.
+
+### ISBA Membership Policy
+ 
+ISBA is an international society dedicated to supporting and promoting the study of biomolecular archaeology. Membership is open to all archaeological scientists. This includes academics, students, retirees, and members of the public. By signing up for membership, each member agrees to adhere to the ISBA Code of Conduct (https://www.isbarch.org/code-of-conduct). 
+
+We recognize that open communication is vital for the advancement of science, and we are committed to upholding the free exchange of ideas among our members. We condemn all forms of violence and aggression, and our membership policy is guided by the principles of humanitarianism, impartiality, and the individual rights of members independent of the actions of their governments. We are committed to protecting our members from discrimination, harassment, or retaliation, regardless of any aspect of their identity or nationality. This is particularly important for members from countries at war, civil unrest, political instability, or other forms of conflict who may face prejudice due to conflicts they have no part in.
+ 
+As a UK-registered charity, we follow all membership and financial regulations of the UK Charities Commission, and we disallow membership and conference participation by designated individuals on the UK Sanctions List (https://search-uk-sanctions-list.service.gov.uk) or the UK Office of Financial Sanctions Implementation (OFSI) consolidated list (https://www.gov.uk/government/publications/financial-sanctions-consolidated-list-of-targets/consolidated-list-of-targets).
+
+Participation in ISBA conferences is subject to the laws and regulations of the hosting institution and country. This may limit registration and participation of ISBA members and non-members at an ISBA conference, since sanction lists differ from country to country. Conference organizers are expected to provide information about such restrictions on the registration website, and they may be contacted directly for further information or guidance.
+
+### Participation guidelines for members from countries under UK sanctions
+
+Members from UK-sanctioned countries have the option of attending, but only in their capacity as individual (non-institutionally affiliated) ISBA members. Any mention of affiliation to an institution or funding agency from a UK-sanctioned country must be avoided in all ISBA contexts.
+Policy on misrepresentation of misconduct cases and ISBA membership revocation
+Any individual who is found to have misrepresented the status of a misconduct case when completing the self-reporting disclaimer required for ISBA Meeting registration will be subject to review by the ISBA Board and could have their ISBA membership permanently revoked. Please direct any concerns and issues to ombudsperson@isbarch.org 
