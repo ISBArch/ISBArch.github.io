@@ -56,16 +56,15 @@ sidebar_link: true
   </div>
 
 
-<!-- ## add once Fundraiser is voted in
-  ## <div class ="member">
-  ## <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/SCHROEDER_Hannes.png" | relative_url }}" alt="Avatar" /></a></div>
-  ## <p>Hannes Schroeder</p>
-  ## <p><b>Fundraiser</b></p>
-  ## <p>University of Copenhagen</p>
-  ## <p>Copenhagen, DK</p>
-  ## <p><b><a href="mailto:treasurer@isbarch.org">Contact</a></b></p>
-  ## </div>
--->
+  <div class ="member">
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/Trombetta_Beniamino.png" | relative_url }}" alt="Avatar" /></a></div>
+  <p>!Beniamino Trombetta</p>
+  <p><b>Fundraiser</b></p>
+  <p>Sapienza Università di Roma</p>
+  <p>Rome, IT</p>
+   <p><b><a href="mailto:partnerships@isbarch.org">Contact</a></b></p>
+   </div>
+
   <div class ="member">
   <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/HE_Yu.jpeg" | relative_url }}" alt="Avatar" /></a></div>
   <p>He Yu</p>
