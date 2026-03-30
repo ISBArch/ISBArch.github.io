@@ -117,16 +117,17 @@ sidebar_link: true
 
 <div class="avatar">
   
-<!-- ISBA representative - change for each ISBA  
-## <div class ="member">
-## <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/DEMARCHI_Beatrice.png" | relative_url }}" alt="Avatar" /></a></div>
-## <p>Beatrice Demarchi</p>
-## <p><b>Conference Representative</b></p>
-## <p>University of Turin</p>
-## <p>Turin, IT</p>
-## <p><b><a href="mailto:beatrice.demarchi@unito.it">Contact</a></b></p>
-## </div>
- -->
+<!-- ISBA representative - change for each ISBA   -->
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/SMITH_Colin.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Colin Smith</p>
+<p><b>Conference Representative</b></p>
+<p>Universidad de Burgos</p>
+<p>Burgos, ES</p>
+<p><b><a href="mailto:cismith@ubu.es">Contact</a></b></p>
+</div>
+
 
   <div class ="member">
   <div class="square"><a href="http://christinawarinner.com/about-us/christina-warinner/" target="_blank"><img src="{{ "/assets/images/profile_pictures/WARINNER_Christina.png" | relative_url }}" alt="Avatar" /></a></div>
