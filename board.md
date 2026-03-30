@@ -58,7 +58,7 @@ sidebar_link: true
 
   <div class ="member">
   <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/Trombetta_Beniamino.png" | relative_url }}" alt="Avatar" /></a></div>
-  <p>!Beniamino Trombetta</p>
+  <p>Beniamino Trombetta</p>
   <p><b>Fundraiser</b></p>
   <p>Sapienza Università di Roma</p>
   <p>Rome, IT</p>
