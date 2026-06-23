@@ -6,7 +6,7 @@ sidebar_link: true
 
 ## Next ISBA Meeting
 
-<p>ISBA12 to be held at at Burgos, Spain</a>!</p>
+<p>ISBA12 to be held at at Burgos, Spain!</p>
 
 <div align="center">
 <img align="center" width="75%" src="assets/images/ISBA12/candidates/UbU.png" alt="ISBA12 in Burgos, Spain">
@@ -58,9 +58,9 @@ The 11th ISBA will be organized by the [University of Torino, Italy](https://en.
   <div class="mySlides fade">
     <img src="" style="width:100%">
     <div class="text"></div>
-  </div>
+  </div> -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fs7_11dAJK8?si=MudW6gz5x1bHVreF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fs7_11dAJK8?si=MudW6gz5x1bHVreF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 
 <!-- DO NOT PLACE NO CONTENT BELOW THIS LINE! -->
@@ -68,8 +68,9 @@ The 11th ISBA will be organized by the [University of Torino, Italy](https://en.
 <script>
 let slideIndex = 0;
 showSlides();
+-->
 
-function showSlides() {
+<!-- function showSlides() {
   let i;
   let slides = document.getElementsByClassName("mySlides");
   for (i = 0; i < slides.length; i++) {
@@ -80,5 +81,5 @@ function showSlides() {
   slides[slideIndex-1].style.display = "block";
   setTimeout(showSlides, 5000); // Change image every 5 seconds
 }
-</script>
--->
+</script>-->
+
