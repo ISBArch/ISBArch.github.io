@@ -10,6 +10,14 @@ sidebar_link: true
 
 </div>
 
+
+<img align="right" width="200" src="/assets/images/ISBA11/save_the_date.jpg">
+<a href="https://www.isba11.com/">https://www.isba11.com/</a> University of Torino, Italy, August 26-29, 2025
+<!-- 
+- <b>Organizing Committee:</b> Mari Tõrv, Mait Metspalu, Biancamaria Bonucci, Meriam Guellil, Meriam Guellil, Kadri Irdt, Marcel Keller, Aivar Kriiska, Alena Kushniarevich, Alessandra Morrone, Ester Oras, Toni de Dios Martínez, Lehti Saag, Stefania Sasso, Tina Saupe, Christiana Lyn Scheib, Kristiina Tambets, Olga Utevska
+- <b>Keynote Speakers:</b> Anne Stone, Carl Heron (feat. Ian Barnes and Oliver Craig)
+- [Conference program](/assets/documents/ISBA10/ISBA_10_program.pdf) & [Abstract](/assets/documents/ISBA10/ISBA10_Abstract_Book.pdf). -->
+
 <img align="right" width="200" src="/assets/images/logos/ISBA10-logo.png">
 <b>[ISBA10](https://isba10.ut.ee/)</b>, University of Tartu, Estonia, September 13-16, September, 2023
 

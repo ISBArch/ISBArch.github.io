@@ -4,6 +4,20 @@ title: Upcoming Meeting
 sidebar_link: true
 ---
 
+## Next ISBA Meeting
+
+<p>ISBA12 to be held at at Burgos, Spain</a>!</p>
+
+<div align="center">
+<img align="center" width="75%" src="assets/images/ISBA12/candidates/UbU.png" alt="ISBA12 in Burgos, Spain">
+</div>
+
+<p>
+Per the vote of the membership (thank you!), we are happy to announce that the 12th International Symposium on Biomolecular Archaeology will be organized by the University of Burgos, Spain in August/September 2027! Looking forward to ISBA12 and to welcoming you all!
+</p>
+
+<!-- 
+
 <div align="center">
 <img align="center" width="500" src="/assets/images/banners/meetingheader.png">
 <p align="right" width="500" style="font-size: 8pt">© Petra K. (@petrathepostdoc)</p>
@@ -35,19 +49,22 @@ The 11th ISBA will be organized by the [University of Torino, Italy](https://en.
 </div>
 
 ## Torino
+-->
 
 <!-- Slideshow container - all slideshow related stuff from https://www.w3schools.com/howto/howto_js_slideshow.asp
 
   <!-- Full-width images with number and caption text -->
+ <!--
   <div class="mySlides fade">
     <img src="" style="width:100%">
     <div class="text"></div>
   </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fs7_11dAJK8?si=MudW6gz5x1bHVreF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+-->
 
 <!-- DO NOT PLACE NO CONTENT BELOW THIS LINE! -->
-
+ <!--
 <script>
 let slideIndex = 0;
 showSlides();
@@ -64,3 +81,4 @@ function showSlides() {
   setTimeout(showSlides, 5000); // Change image every 5 seconds
 }
 </script>
+-->
