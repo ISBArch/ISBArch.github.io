@@ -6,7 +6,7 @@ categories:
 ---
 
 <div align="center">
-<img width="200" align="center" src="assets/images/ISBA12/candidates/UbU.png" alt="University of  Burgos logo">
+<img align="center" width="75%" src="/assets/images/ISBA12/candidates/UbU.png" alt="Logo of University of Burgos, Spain">
 </div>
 
 
