@@ -13,7 +13,9 @@ sidebar_link: true
 </div>
 
 <p>
-Per the vote of the membership (thank you!), we are happy to announce that the 12th International Symposium on Biomolecular Archaeology will be organized by the University of Burgos, Spain in August/September 2027! Looking forward to ISBA12 and to welcoming you all!
+Per the vote of the membership (thank you!), we are happy to announce that the 12th International Symposium on Biomolecular Archaeology will be organized by the University of Burgos, Spain in August/September 2027! 
+
+Looking forward to ISBA12 and to welcoming you all!
 </p>
 
 <!-- 
