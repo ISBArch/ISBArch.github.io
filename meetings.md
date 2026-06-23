@@ -51,7 +51,7 @@ The 11th ISBA will be organized by the [University of Torino, Italy](https://en.
 ## Torino
 -->
 
-<!-- Slideshow container - all slideshow related stuff from https://www.w3schools.com/howto/howto_js_slideshow.asp
+<!-- Slideshow container - all slideshow related stuff from https://www.w3schools.com/howto/howto_js_slideshow.asp -->
 
   <!-- Full-width images with number and caption text -->
  <!--
@@ -60,8 +60,7 @@ The 11th ISBA will be organized by the [University of Torino, Italy](https://en.
     <div class="text"></div>
   </div> -->
 
- <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fs7_11dAJK8?si=MudW6gz5x1bHVreF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+ <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fs7_11dAJK8?si=MudW6gz5x1bHVreF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 <!-- DO NOT PLACE NO CONTENT BELOW THIS LINE! -->
  <!--
