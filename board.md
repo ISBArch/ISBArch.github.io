@@ -15,7 +15,7 @@ sidebar_link: true
   <p><b>President</b></p>
   <p>Oxford University</p>
   <p>Oxford, UK</p>
-  <p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
+  <p><b><a href="mailto:president@isbarch.org">Contact</a></b></p>
   </div>
 
     <div class ="member">
@@ -24,7 +24,7 @@ sidebar_link: true
   <p><b>Vicepresident</b></p>
   <p>University of Warsaw</p>
   <p>Warsaw, PL</p>
-  <p><b><a href="mailto:compliance@isbarch.org">Contact</a></b></p>
+  <p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
   </div>
 
   <div class ="member">
@@ -44,7 +44,7 @@ sidebar_link: true
   <p>Jena, DE</p>
   <p>Eberhard-Karls-Universität Tübingen</p>
   <p>Tübingen, DE</p>
-  <p><b><a href="mailto: ombudsperson@isbarch.org">Contact</a></b></p>
+  <p><b><a href="mailto:ombudsperson@isbarch.org">Contact</a></b></p>
   </div>
 
   <div class ="member">
@@ -66,7 +66,7 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/Trombetta_Beniamino.png" | relative_url }}" alt="Avatar" /></a></div>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/LI_Audrey.png" | relative_url }}" alt="Avatar" /></a></div>
   <p>Audrey Li</p>
   <p><b>Deputy Treasurer (Fundraising)</b></p>
   <p>University of Vienna</p>
@@ -84,12 +84,11 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/MOLAK_Martyna.jpg" | relative_url }}" alt="Avatar" /></a></div>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/CHILDEBAYEVA_Ainash2.jpg" | relative_url }}" alt="Avatar" /></a></div>
   <p>Ainash Childebayeva </p>
   <p><b>Charity Compliance and Liaison Officer</b></p>
   <p>University of Texas at Austin</p>
   <p>Austin, US</p>
-  <p><b><a href="mailto:compliance@isbarch.org">Contact</a></b></p>
   </div>
 
   <div class ="member">
@@ -110,7 +109,7 @@ sidebar_link: true
   </div>
 
   <div class ="member">
-  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/JHA_Gopesh.jpg" | relative_url }}" alt="Avatar" /></a></div>
+  <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/FAGERNAS_Zandra2.jpg" | relative_url }}" alt="Avatar" /></a></div>
   <p>Zandra Fagernäs </p>
   <p><b>Ombudsperson</b></p>
   <p>University of Copenhagen</p>
@@ -132,7 +131,7 @@ sidebar_link: true
   <p>Sam Brown</p>
   <p><b>Conference Representative</b></p>
   <p>National Research Center on Human Evolution (CENIEH)</p>
-  <p>Burgos, Spain</p>
+  <p>Burgos, ES</p>
   <p><b><a href="mailto:secretary@isbarch.org">Contact</a></b></p>
   </div>
 
