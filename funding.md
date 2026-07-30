@@ -29,6 +29,17 @@ Apply for funding </button>
 
 A list of ISBA awarded micro-grants are as follows:
 
+### 2025
+
+#### SPAAM7
+
+ISBA awarded €300 to the hybrid 7th SPAAM conference in Turin,Italy or online in August 2025. SPAAM7 will again provide talks, networking, and general community building for early career researchers in ancient metagenomics.
+
+#### HAAM Summer School
+
+ISBA awarded €450 to the online HAAM-Summer School 2026, in June 2025. The money was used for a video conference platform gather.town. The summer school provided latest methodologies in human ancient DNA research through online hands-on workshops led by experts in the field. The flyer ca be found [here](https://haam-community.github.io/events/2025/03/12/event/).
+
+
 ### 2024
 
 #### IZAZ Workshop
