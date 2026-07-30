@@ -16,7 +16,7 @@ If you would like your community to become an affiliate of ISBA, please see the 
 
 <img href="" width="50%" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://github.com/SPAAM-community/spaam-community.github.io/raw/master/assets/media/SPAAM-Logo-Full-Colour.svg">
 
-[**Standards, Precautions, and Advances in Ancient Metagenomics (SPAAM) Community**](https://spaam-community.github.io/about/): a community of researchers focusing on ancient metagenomics. SPAAM supports open science initiatives to find solutions to common challenges and obstacles in the field. SPAAM sponsors collaborative projects, summer schools, a Slack channel, and a yearly workshop. Find out more [here](https://spaam-community.github.io/projects/).
+[**Standards, Precautions, and Advances in Ancient Metagenomics (SPAAM) Community**](https://spaam-community.github.io/about/): a community of researchers focusing on ancient metagenomics. SPAAM supports open science initiatives to find solutions to common challenges and obstacles in the field. SPAAM sponsors collaborative projects, summer schools, an [Element channel](https://matrix.to/#/#spaam:archaeo.social/), and a yearly workshop. Find out more [here](https://spaam-community.github.io/projects/).
 
 ---
 
