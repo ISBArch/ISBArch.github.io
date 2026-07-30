@@ -56,6 +56,14 @@ Find out more [here](https://www.animal-adna.org/).
 
 ---
 
+<img href="(https://pitaaa-community.github.io/)"  style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="assets/images/misc/PITAA.png">
+
+The [**Practices in Isotopic Techniques and Advancing Applications in Archaeology (PITAAA)**](https://pitaaa-community.github.io/): a open global collective of researchers, led by ECRs, dedicated to the advancement of isotopic research and methodologies for archaeological applications. PITAAA promotes international collaboration, methodological advancement, and open science initiatives. PITAAA aims to provide a safe space to foster collaboration and knowledge exchange through hybrid seminar series, annual workshops and online resources/ platforms. 
+
+Find out more [here](https://pitaaa-community.github.io/).
+
+---
+
 ## Initiatives
 
 ---
