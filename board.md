@@ -67,7 +67,7 @@ sidebar_link: true
 
   <div class ="member">
   <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/LI_Audrey.png" | relative_url }}" alt="Avatar" /></a></div>
-  <p>Audrey Li</p>
+  <p>Audrey T. Lin</p>
   <p><b>Deputy Treasurer (Fundraising)</b></p>
   <p>University of Vienna</p>
   <p>Vienna, AT</p>
